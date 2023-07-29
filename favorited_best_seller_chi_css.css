@@ -1,5 +1,5 @@
-      /*page title section*/
-      .favorited_best_seller_title_container{
+       /*page title section*/
+       .favorited_best_seller_title_container{
         padding-left:5px;
         padding-top:5%;
         padding-bottom:5%;
@@ -8,7 +8,7 @@
     }
 
     .favorited_best_seller_title{
-        font-size:10vw;
+        font-size:50px;
         background-color:#ffffff;
         color:#FFFFFF;
         margin-top:2px;
@@ -16,7 +16,7 @@
         text-shadow: 2px 2px 4px #000000;
     }
     .favorited_best_seller_subtitle{
-        font-size:8vw;
+        font-size:35px;
         margin-top:2px;
         font-weight: bold;
         color:#FFFFFF;
@@ -25,7 +25,7 @@
     }
     .favorited_best_seller_text{
         color:#FFFFFF;
-        font-size:5vw;
+        font-size:25px;
         background-color:#ffffff;
         margin-top:2px;
         font-weight: bold;
@@ -137,4 +137,18 @@
 .taobao_button:hover {
     opacity: 0.8;
     color:#ffffff;
+}
+
+@media (max-width: 600px) {
+        .favorited_best_seller_title{
+            font-size:30px;
+        }
+
+        .favorited_best_seller_subtitle{
+        font-size:20px;
+        }
+
+        .favorited_best_seller_text{
+        font-size:15px;
+        }
 }
