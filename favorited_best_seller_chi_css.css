@@ -53,7 +53,7 @@
             background-color:#ffffff;
         }
 
-        .product_img_container{
+        .best_seller_img_container{
            position: absolute;
            top: -10%;
            left:20%;
@@ -61,7 +61,7 @@
            height:150px;
         }   
 
-        .product_img{
+        .best_seller_img{
            width:150px;
            height:150px;
            border-radius: 50%;
