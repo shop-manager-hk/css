@@ -43,6 +43,7 @@
 }
 
 .aliexpress_button{
+    padding-left:5px;
     height:50px;
     width:100%;
     color:#E52E04;
@@ -50,6 +51,7 @@
 }
 
 .reason_button{
+    padding-left:5px;
     height:50px;
     width:100%;
     color:#ffffff;
