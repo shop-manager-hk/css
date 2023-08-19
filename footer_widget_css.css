@@ -1,0 +1,37 @@
+  .footer_widget_container{
+   width:100%;
+   margin-top:5px;
+   padding:5px;
+   display: flex;
+   justify-content: center;
+
+  }
+
+  .footer_sub_title{
+  font-size:25px;
+  font-weight:bold;
+  margin-bottom:2px;
+}
+
+  hr.footer_head{
+  border: 5px solid #ffb300;
+  border-radius: 2px;
+  width:150px;
+  }
+
+
+
+ .footer_list_item{
+  font-size:20px;
+}
+
+  a.footer:link {
+  color:#22345c;
+  text-decoration: none;
+  }
+
+  a.footer:hover {
+  color: #808080;
+  }
+
+ 
