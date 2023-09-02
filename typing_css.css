@@ -1,11 +1,10 @@
 .typing_container{
-  font-family: "arial";
   font-size: 28px;
   font-weight:bold;
-  color:23396c;
+  color:#23396c;
   display: grid;
   place-items: center;
-  width: 430px;
+  width: 250px;
   text-align: center;
 }
 
