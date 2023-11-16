@@ -21,7 +21,7 @@
   }
   
   .contacts_img{
-   border-radius: 50%;
+   border-radius: 50px;
    border: 3px dotted #23396C;
    width:100px;
    height:100px;
